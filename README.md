@@ -20,3 +20,11 @@ As we can see from the summary statistics, there is a significant differences in
 
 
 ## Summary
+With the data analysis created, it will help us determine if the surf and ice cream shop business is sustainable year-round. It will also help us decide on which areas we would make this location attractive for tourists and vistors to stop by and for the shop to consistently have good number of sales and bringing in enough revenues. 
+
+
+
+
+`LinkedIn: /www.linkedin.com/in/wilson-alexei/`
+
+`Email: wils.alexei@gmail.com`
